@@ -1,6 +1,6 @@
 # Toward an understanding of salary distributions in remote workers
 
-This repoitory contains the final project of the Data Litracy Lecture 21/22 by Luca Schaal and Tim Schreier. The project revolved around a large dataset on remote workers, which can be found at https://salaries.freshremote.work/download/. 
+This repoitory contains the final project of the Data Litracy Lecture 21/22 by Luca Schaal and Tim Schreier. The project revolved around a large dataset on remote workers, which can be found at [here](https://salaries.freshremote.work/download/). 
 There are several notebooks in the code folder that are used to analyze and create plots for the final report, which is in the doc folder.
 
 For a brief preview, the abstract of the report follows here.
